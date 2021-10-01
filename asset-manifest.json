@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/behamas-ecommerce/static/css/main.1236c770.chunk.css",
+    "main.js": "/behamas-ecommerce/static/js/main.cecef7e7.chunk.js",
+    "main.js.map": "/behamas-ecommerce/static/js/main.cecef7e7.chunk.js.map",
+    "runtime-main.js": "/behamas-ecommerce/static/js/runtime-main.486f968e.js",
+    "runtime-main.js.map": "/behamas-ecommerce/static/js/runtime-main.486f968e.js.map",
+    "static/css/2.53150396.chunk.css": "/behamas-ecommerce/static/css/2.53150396.chunk.css",
+    "static/js/2.309c11a8.chunk.js": "/behamas-ecommerce/static/js/2.309c11a8.chunk.js",
+    "static/js/2.309c11a8.chunk.js.map": "/behamas-ecommerce/static/js/2.309c11a8.chunk.js.map",
+    "static/js/3.77b2a2cf.chunk.js": "/behamas-ecommerce/static/js/3.77b2a2cf.chunk.js",
+    "static/js/3.77b2a2cf.chunk.js.map": "/behamas-ecommerce/static/js/3.77b2a2cf.chunk.js.map",
+    "index.html": "/behamas-ecommerce/index.html",
+    "static/css/2.53150396.chunk.css.map": "/behamas-ecommerce/static/css/2.53150396.chunk.css.map",
+    "static/css/main.1236c770.chunk.css.map": "/behamas-ecommerce/static/css/main.1236c770.chunk.css.map",
+    "static/js/2.309c11a8.chunk.js.LICENSE.txt": "/behamas-ecommerce/static/js/2.309c11a8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/behamas-ecommerce/static/media/logo.6ce24c58.svg",
+    "static/media/shopping-cart.5f06e779.png": "/behamas-ecommerce/static/media/shopping-cart.5f06e779.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.486f968e.js",
+    "static/css/2.53150396.chunk.css",
+    "static/js/2.309c11a8.chunk.js",
+    "static/css/main.1236c770.chunk.css",
+    "static/js/main.cecef7e7.chunk.js"
+  ]
+}
